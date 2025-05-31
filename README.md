@@ -65,4 +65,16 @@ from sklearn.metrics import accuracy_score
 
 ## ✅ Output
 
+accuracy:0.9666666666666667
+
+SAMPLE PREDICTION :
+![image](https://github.com/user-attachments/assets/846120b2-134a-4fa0-91a7-6d1d18a4b31f)
+
+RESULT :
+![image](https://github.com/user-attachments/assets/c8d74619-65fc-47f4-b9e0-6ffe40f3601a)
+
+## 🙋‍♀️ Author
+Done by Kulsum S G
+University: B.S.A. Crescent Institute of Science and Technology
+Internship: AI and ML Week 2 Internship at NSP Nexus
 
